@@ -32,5 +32,10 @@ public class MarioZurbanoMusica {
 		public void setNombreHobby(String nombreHobby) {
 			this.nombreHobby=nombreHobby;
 		}
+		public static void nombreGrupo(String nombreGrupo) {
+			for (int i= 0;i<1000;i++) {
+				System.out.println("Metallica");
+			}
+		}
 }		
 
