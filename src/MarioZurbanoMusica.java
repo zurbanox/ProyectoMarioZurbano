@@ -25,4 +25,8 @@ public class MarioZurbanoMusica {
 		public void setNombreAlbum(String nombreAlbum) {
 			this.nombreAlbum=nombreAlbum;
 		}
+		public String getNombreHobby() {
+			return nombreHobby;
+		}
+		
 }		
