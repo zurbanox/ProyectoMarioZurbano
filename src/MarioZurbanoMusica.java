@@ -18,4 +18,9 @@ public class MarioZurbanoMusica {
 		public void setNombreGrupo(String nombreGrupo) {
 			this.nombreGrupo=nombreGrupo;
 		}
+		
+		public String getNombreAlbum() {
+			return nombreAlbum;
+		}
+
 }		
